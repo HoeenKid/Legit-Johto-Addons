@@ -1,0 +1,204 @@
+//custom.css for johto server made by Legit Button//
+
+
+#header {
+    background: #5097aa;
+}
+
+.tabbar a.button.cur,.tabbar a.button.cur:hover {
+    color: #FFF;
+    background: #001F3F;
+    border-color: #000;
+}
+
+.closebutton,.minimizebutton {
+    color: #FFF;
+}
+
+.closebutton:hover,.minimizebutton:hover {
+    color: #DDDDDD;
+}
+
+.tabbar a.button {
+    border: solid 1px #000;
+}
+
+.icon-user {
+    color: #001F3F!important;
+}
+
+.maintabbarbottom {
+    background: #001F3F;
+    border: 1px solid #000;
+}
+
+body {
+    background-image:url("http://imgur.com/TY49VeB.png");
+    background-repeat:no-repeat;background-position:center
+    }
+
+.menugroup .button {
+    background: #111111;
+    border-color: #111111;
+    color: #FFF;
+    font-size: 8pt;
+    opacity: .8;
+}
+
+.menugroup .button:hover {
+    background: #001F3F;
+}
+
+.menugroup button.big {
+    font-size: 10pt;
+}
+
+.mainmenufooter a {
+    color: #FFF;
+    font-size: 8pt;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.mainmenufooter a:hover {
+    color: #DDDDDD;
+    text-decoration: none;
+}
+
+.mainmenufooter {
+    color: #D9BADB;
+}
+
+.ps-room.ps-room-light {
+    opacity: .99;
+}
+
+.ps-room {
+    border-left: 2px solid #6F6F6F;
+}
+
+.userlist{
+	background: #D2D2D2;
+  	color: white;
+}
+
+.userlist li button:hover {
+background: blue;
+}
+
+.userlist li{
+border-bottom: 1px solid #1b1b1b;
+}
+
+.chat-log-add {
+    border-top: 2px solid #6F6F6F;
+}
+
+.userlist li em.group {
+    color: #535353;
+}
+
+.userlist li button:hover {
+    background: #D5DADD;
+}
+
+.chat-log {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 40px;
+	font-size: 10pt;
+	 background: url("http://i.imgur.com/MeALmsC.png") no-repeat center;
+	color: black;
+	word-wrap: break-word;
+
+	overflow: auto;
+	overflow-x: hidden;
+	-webkit-overflow-scrolling: touch;
+	overflow-scrolling: touch;
+}
+
+.message-announce {
+    background: #4f63a1;
+}
+
+.pm-window h3 {
+    background: #001F3F;
+    color: #FFF;
+    border: 1px solid #000;
+    opacity: .8;
+}
+
+.pm-window h3:hover {
+    color: #DDDDDD;
+}
+
+.pm-window h3 small {
+    color: #FFF;
+}
+
+.pm-log {
+	min-height: 100px;
+	max-height: 300px;
+	background: #98dae2;
+	color: #FFFFFF;
+	word-wrap: break-word;
+	border: 1px solid #AAAAAA;
+	border-top: 0;
+	border-bottom: 0;
+
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+	overflow-scrolling: touch;
+}
+
+.pm-log-add {
+    background: #0f336b;
+    border: 1px solid #000;
+}
+
+.pm-window.focused h3,.pm-window.focused h3:hover {
+    color: #FFF;
+    background: #1a5899;
+}
+
+.broadcast-blue {
+    background-color: #142E50;
+    border: 2px solid #fff;
+}
+
+.broadcast-red {
+    background-color: #520B0B;
+    border: 2px solid #fff;
+}
+
+.broadcast-green {
+    background-color: #5b9f5b;
+    border: 2px solid #fff;
+}
+
+.broadcast-yellow {
+    background-color: #d8e78d;
+    border: 2px solid #fff;
+}
+
+.ps-popup {
+    background: #D8D8D8;
+    border: 1px solid #000;
+}
+
+.ps-popup a {
+    color: #575757;
+    text-decoration: none;
+}
+
+/* Battle Background */
+.backdrop {
+    background: url(http://i.imgur.com/g8C3QlK.png) !important;
+}
+
+
+.ps-popup a:hover {
+    color: #b7c7d7;
+}
