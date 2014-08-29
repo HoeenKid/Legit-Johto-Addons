@@ -1,6 +1,6 @@
 /**
  * Components
- * Created by CreaturePhil - https://github.com/CreaturePhil
+ * Created by LegitButton and CreaturePhil - https://github.com/LegitButton  http://github.com/CreaturePhil
  *
  * These are custom commands for the server. This is put in a seperate file
  * from commands.js and config/commands.js to not interfere with them.
